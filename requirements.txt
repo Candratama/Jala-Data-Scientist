@@ -3,3 +3,4 @@ pandas
 matplotlib
 ydata-profiling
 numpy
+scikit-learn
